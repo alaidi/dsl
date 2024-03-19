@@ -1,0 +1,7 @@
+# .NET application
+/bin/
+/obj/
+/.vs/
+/.idea/
+*.sln
+*.csproj
